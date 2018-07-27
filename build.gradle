@@ -1,0 +1,16 @@
+
+
+apply plugin: 'java'
+apply plugin: 'application'
+ext.moduleName = 'pcap4j'
+
+
+dependencies {
+
+}
+
+
+
+sourceCompatibility = 1.10
+targetCompatibility = 1.10
+

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.liquid.packetanalyzer/com.liquid.packetanalyzer.iml" filepath="$PROJECT_DIR$/.idea/modules/com.liquid.packetanalyzer/com.liquid.packetanalyzer.iml" group="com.liquid.packetanalyzer" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.liquid.packetanalyzer/com.liquid.packetanalyzer_main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.liquid.packetanalyzer/com.liquid.packetanalyzer_main.iml" group="com.liquid.packetanalyzer" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.liquid.packetanalyzer/com.liquid.packetanalyzer_test.iml" filepath="$PROJECT_DIR$/.idea/modules/com.liquid.packetanalyzer/com.liquid.packetanalyzer_test.iml" group="com.liquid.packetanalyzer" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.network.core.iml" filepath="$PROJECT_DIR$/.idea/modules/com.network.core.iml" group="com.network.core" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.network.core/com.network.core_main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.network.core/com.network.core_main.iml" group="com.network.core" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.network.core/com.network.core_test.iml" filepath="$PROJECT_DIR$/.idea/modules/com.network.core/com.network.core_test.iml" group="com.network.core" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/pcap4j/pcap4j.iml" filepath="$PROJECT_DIR$/.idea/modules/pcap4j/pcap4j.iml" group="pcap4j" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/pcap4j-core/pcap4j-core.iml" filepath="$PROJECT_DIR$/.idea/modules/pcap4j-core/pcap4j-core.iml" group="pcap4j-core" />
+      <module fileurl="file://$PROJECT_DIR$/sniffer-core.iml" filepath="$PROJECT_DIR$/sniffer-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sniffer-core_main.iml" filepath="$PROJECT_DIR$/.idea/modules/sniffer-core_main.iml" group="sniffer-core" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sniffer-core_test.iml" filepath="$PROJECT_DIR$/.idea/modules/sniffer-core_test.iml" group="sniffer-core" />
+    </modules>
+  </component>
+</project>

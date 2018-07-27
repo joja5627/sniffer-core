@@ -1,0 +1,15 @@
+rootProject.name = 'sniffer-core'
+
+include ':com.liquid.packetanalyzer'
+include ':com.network.core'
+include ':pcap4j'
+include ':pcap4j-core'
+//findProject(':com.liquid.packetanalyzer')?.name = 'com.liquidfortress.packetanalyzer'
+
+buildCache {
+    local(DirectoryBuildCache) {
+        directory = new File(rootDir, 'build-cache')
+    }
+}
+
+

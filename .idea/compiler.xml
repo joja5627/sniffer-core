@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="com.liquid.packetanalyzer_main" target="1.10" />
+      <module name="com.liquid.packetanalyzer_test" target="1.10" />
+      <module name="com.liquidfortress.packetanalyzer_main" target="1.10" />
+      <module name="com.liquidfortress.packetanalyzer_test" target="1.10" />
+      <module name="com.network.core_main" target="1.10" />
+      <module name="com.network.core_test" target="1.10" />
+      <module name="LiquidFortressPacketAnalyzer_main" target="1.10" />
+      <module name="LiquidFortressPacketAnalyzer_test" target="1.10" />
+      <module name="sniffer-core_integrationTest" target="1.10" />
+      <module name="sniffer-core_main" target="1.10" />
+      <module name="sniffer-core_test" target="1.10" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
